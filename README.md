@@ -2,7 +2,7 @@
 My name is Mauricio, I'm from México and I'm an TI Engineer.
 
 ## Skills
-* Using Linux since 2015
+* Using Linux 
 * Network Administrator
 * AWS, Docker, all the cloud stuff :)
 * Critical thinking, decision-making and problem solving skills
