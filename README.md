@@ -41,14 +41,6 @@ My name is Mauricio, I'm from México and I'm an TI Engineer.
       src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"
       alt="Bootstrap" width="60" height="60" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer"
-    href="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"><img
-      src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"
-      alt="Tailwind CSS" width="60" height="60" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer"
-    href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"><img
-      src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL"
-      width="60" height="60" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer"
     href="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><img
       src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
       title="Sql" alt="Sql" width="60" height="60" style="max-width: 100%;"></a>&nbsp;
