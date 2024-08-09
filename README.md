@@ -21,10 +21,6 @@ My name is Mauricio, I'm from México and I'm an TI Engineer.
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" title="Csharp"
       alt="Csharp" width="60" height="60" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer"
-    href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"><img
-      src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" title="NodeJs" alt="NodeJs"
-      width="60" height="60" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer"
     href="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img
       src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="60"
       height="60" style="max-width: 100%;"></a>&nbsp;
@@ -36,10 +32,6 @@ My name is Mauricio, I'm from México and I'm an TI Engineer.
     href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"><img
       src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql"
       width="60" height="60" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer"
-    href="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"><img
-      src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" title="Git" width="60" height="60"
-      style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer"
     href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg"
