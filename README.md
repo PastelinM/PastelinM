@@ -21,10 +21,6 @@ My name is Mauricio, I'm from México and I'm an TI Engineer.
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" title="Csharp"
       alt="Csharp" width="60" height="60" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer"
-    href="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img
-      src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="60"
-      height="60" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer"
     href="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><img
       src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
       title="Sql" alt="Sql" width="60" height="60" style="max-width: 100%;"></a>&nbsp;
