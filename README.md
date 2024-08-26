@@ -36,7 +36,13 @@ My name is Mauricio, I'm from México and I'm an TI Engineer.
     href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg"
       title="Docker" alt="Docker" width="60" height="60" style="max-width: 100%;"></a>&nbsp;
+   <a target="_blank" rel="noopener noreferrer"
+    href="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original-wordmark.svg"><img
+      src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original-wordmark.svg"
+      title="Pfsense" alt="Docker" width="60" height="60" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer"
     href="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux"alt="Linux" width="60" height="60" style="max-width: 100%;"></a>&nbsp;
+
+
 </div>
