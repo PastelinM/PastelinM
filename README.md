@@ -23,12 +23,9 @@
 
 ### 👨🏻‍💻 About Me
 
-📡 In progress MRT.    
-🎮 Gamer under the name "ImPastelin."   
-🏀 Basketball 0.   
-📍 Veracruz, Mexico.   
-🚵‍♂️ Ferre-Tere Bike.   
-🧠 "Carpe Diem" — living in the moment.
+  
+📍 Mexico.   
+
 
 
  <!--Skills--> 
